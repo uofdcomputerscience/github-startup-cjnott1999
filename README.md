@@ -18,6 +18,6 @@ We are working on three things with this assignment:
 Thanks!
 
 *** 
-*My name is Cameron Nottingham
-*My favorite programming language is C#
-*My favorite IDE is Visual Studio and favorite text editor is Visual Studio Code (I Like using Microsoft Tools on Apple Hardware)
+* My name is Cameron Nottingham
+* My favorite programming language is C#
+* My favorite IDE is Visual Studio and favorite text editor is Visual Studio Code (I Like using Microsoft Tools on Apple Hardware)
